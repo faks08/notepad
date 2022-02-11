@@ -1,4 +1,4 @@
-class Taks < Post
+class Task < Post
   def initialize
     super
 
